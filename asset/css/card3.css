@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding: 90px;
+}
+
+#card3{
+    width: 900px;
+    
+    background-color: rgb(219, 209, 174);
+    border: 1px solid transparent;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+   display: flex;
+   flex-direction: row;
+
+}
+
+img {
+    width: 50%;
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    
+   
+}
+
+ h2 {
+    color: rgb(119, 61, 61);
+    display: flex;
+    justify-content: start;
+}
+ 
+p {
+    color: rgb(119, 61, 61);
+    
+}
